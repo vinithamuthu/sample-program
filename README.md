@@ -1,0 +1,3 @@
+- Hi, I am Vinitha
+- I am interested in MERN, Frontend
+- I'm currently learning MERN stack
