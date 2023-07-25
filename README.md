@@ -1,3 +1,3 @@
-- Hi, I am Vinitha
+- Hi, I am Vinitha Muthu
 - I am interested in MERN, Frontend
 - I'm currently learning MERN stack
